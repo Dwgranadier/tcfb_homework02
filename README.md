@@ -11,11 +11,10 @@
 4. Item 4
 
 [link example to this Github respository](https://github.com/Dwgranadier/tcfb_homeowrk02)
-<https://github.com/Dwgranadier/tcfb_homeowrk02>
+
 
 ![embedded picture via link example](https://github.com/Dwgranadier/tcfb_homeowrk02/blob/master/images/casent.%20%20%20-%20%200191696%20Camponotus%20darwinii%20.jpg)
 
-![embedded picture via path example](/Users/dgranadi/Desktop/tcfb-homework02/messy-project-directory/tcfb_homeowrk02/images)
 
 ## Table Example
 
